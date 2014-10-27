@@ -1,4 +1,4 @@
-#!usr/bin/env ruby
+#/!usr/bin/env ruby
 
 def ask_question(question)
   print "#{question}"

@@ -1,4 +1,4 @@
-#!usr/bin/env ruby
+#!/usr/bin/env ruby
 
 (1..99).reverse_each do |bottle|
 
